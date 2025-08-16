@@ -7,7 +7,7 @@ A ideia foi criar uma página sobre **Busan, na Coreia do Sul**, mostrando algun
 
 ## 🌐 Demo
 
-🔗 [Ver Demo]([https://SEU-USUARIO.github.io/turismo-busan/](https://jessicavasconcelosf.github.io/turismo/))
+🔗 [Ver Demo](https://jessicavasconcelosf.github.io/turismo/)
 
 ---
 
