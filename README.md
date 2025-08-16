@@ -40,7 +40,7 @@ TurismoBusan/
 ## 🚀 Como rodar
 1. Baixe ou clone este repositório:
    ```bash
-   git clone https://github.com//jessicavasconcelosf/turismo-busan.git
+   git clone https://github.com//jessicavasconcelosf/turismo.git
 
    Abra o arquivo index.html no navegador.
 
